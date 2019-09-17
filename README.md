@@ -4,7 +4,7 @@ This is a simple backend app of photo gallery with nodejs, express and mongodb.
 You can clone this project on your machine, run and change it.
 
 **Dependecies**
-You need to have mongodb installed in your machine.
+You need to have mongodb installed in your machine (https://docs.mongodb.com/manual/installation/).
 
 ***Create the project***
 ```
